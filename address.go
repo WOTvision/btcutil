@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/WOTvision/wot/btcec"
-	"github.com/WOTvision/wot/chaincfg"
+	"github.com/WOTvision/wotd/btcec"
+	"github.com/WOTvision/wotd/chaincfg"
 	"github.com/WOTvision/btcutil/base58"
 	"github.com/WOTvision/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"

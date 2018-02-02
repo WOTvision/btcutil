@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/WOTvision/wot/chaincfg"
+	"github.com/WOTvision/wotd/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

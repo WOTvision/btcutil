@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/WOTvision/wot/chaincfg/chainhash"
-	"github.com/WOTvision/wot/wire"
+	"github.com/WOTvision/wotd/chaincfg/chainhash"
+	"github.com/WOTvision/wotd/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

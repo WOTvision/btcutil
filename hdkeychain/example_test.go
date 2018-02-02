@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/WOTvision/wot/chaincfg"
+	"github.com/WOTvision/wotd/chaincfg"
 	"github.com/WOTvision/btcutil/hdkeychain"
 )
 

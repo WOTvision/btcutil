@@ -7,8 +7,8 @@ package btcutil_test
 import (
 	"testing"
 
-	"github.com/WOTvision/wot/btcec"
-	"github.com/WOTvision/wot/chaincfg"
+	"github.com/WOTvision/wotd/btcec"
+	"github.com/WOTvision/wotd/chaincfg"
 	. "github.com/WOTvision/btcutil"
 )
 

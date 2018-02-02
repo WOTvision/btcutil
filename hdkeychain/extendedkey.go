@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/WOTvision/wot/btcec"
-	"github.com/WOTvision/wot/chaincfg"
-	"github.com/WOTvision/wot/chaincfg/chainhash"
+	"github.com/WOTvision/wotd/btcec"
+	"github.com/WOTvision/wotd/chaincfg"
+	"github.com/WOTvision/wotd/chaincfg/chainhash"
 	"github.com/WOTvision/btcutil"
 	"github.com/WOTvision/btcutil/base58"
 )

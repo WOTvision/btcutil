@@ -12,7 +12,7 @@ interface. The functions are only exported while the tests are being run.
 package btcutil
 
 import (
-	"github.com/WOTvision/wot/btcec"
+	"github.com/WOTvision/wotd/btcec"
 	"github.com/WOTvision/btcutil/base58"
 	"github.com/WOTvision/btcutil/bech32"
 	"golang.org/x/crypto/ripemd160"

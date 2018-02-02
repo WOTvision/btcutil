@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/WOTvision/wot/wire"
+	"github.com/WOTvision/wotd/wire"
 	"github.com/WOTvision/btcutil/txsort"
 )
 

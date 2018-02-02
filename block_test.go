@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/WOTvision/wot/chaincfg/chainhash"
-	"github.com/WOTvision/wot/wire"
+	"github.com/WOTvision/wotd/chaincfg/chainhash"
+	"github.com/WOTvision/wotd/wire"
 	"github.com/WOTvision/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )

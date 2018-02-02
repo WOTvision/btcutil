@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/WOTvision/wot/chaincfg/chainhash"
-	"github.com/WOTvision/wot/wire"
+	"github.com/WOTvision/wotd/chaincfg/chainhash"
+	"github.com/WOTvision/wotd/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

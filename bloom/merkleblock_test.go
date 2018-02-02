@@ -9,8 +9,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/WOTvision/wot/chaincfg/chainhash"
-	"github.com/WOTvision/wot/wire"
+	"github.com/WOTvision/wotd/chaincfg/chainhash"
+	"github.com/WOTvision/wotd/wire"
 	"github.com/WOTvision/btcutil"
 	"github.com/WOTvision/btcutil/bloom"
 )
